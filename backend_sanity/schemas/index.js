@@ -6,5 +6,6 @@ import skills from './skills'
 import testimonials from './testimonials'
 import workExperience from './workExperience'
 import works from "./works"
+import experiences from "./experiences"
 
-export const schemaTypes = [abouts, brands, contact, skills, testimonials, workExperience, works]
+export const schemaTypes = [abouts, brands, contact, skills, testimonials, workExperience,experiences, works]
